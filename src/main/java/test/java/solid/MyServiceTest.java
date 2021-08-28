@@ -1,3 +1,5 @@
+package test.java.solid;
+
 import org.junit.jupiter.api.Test;
 import solid.MyService;
 import static org.junit.jupiter.api.Assertions.assertEquals;
